@@ -1,4 +1,4 @@
-Инструкция по запуску монитора ресурсов
-Файл называется confqram.js
-Файл должен запускатся от команды gnome-terminal -- sudo node (возможно у вас будет XFCE Terminal так что лучше xfce-terminal -- sudo node а ещё команда иногда может не сработать)
-Также прочитайте readme.txt в архиве
+
+Файл называется confqram.js 
+Файл должен запускатся от команды gnome-terminal -- sudo node (возможно у вас будет XFCE Terminal так что лучше xfce-terminal -- sudo node а ещё команда иногда может не сработать) 
+Также прочитайте readme.txt в архиве 
